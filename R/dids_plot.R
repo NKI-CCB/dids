@@ -15,6 +15,7 @@ plotGroups <- function(data, class, gene=NULL, densPlot=T, binclass=T, sorted=0,
 	if(!is.null(gene)){
 		if(!is.numeric(gene)){
 			geneIndex <- grep(paste('^',gene,'$', sep=""), fData(data)$symbol)
+			stopifnot(length(geneIndex) == 1)
 			geneIndex <- geneIndex[1]
 			geneName <- gene		
 			#todo: allow multiple plots for all probes for gene	

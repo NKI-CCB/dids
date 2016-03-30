@@ -1,1 +1,6 @@
-exportPattern("^[[:alpha:]]+")
+export(didsScore)
+export(didsScoreFromMatrix)
+export(didsPlot)
+export(expressionSetFromGCF)
+
+import(Biobase)
