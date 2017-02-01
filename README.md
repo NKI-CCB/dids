@@ -3,9 +3,8 @@
 R package for DIDS (Detection of Imbalanced Differential
 Signal). The original version of DIDS was written by Jorma de Ronde
 and is available at http://ccb.nki.nl.  For more details about the
-approach please read corresponding the publication 'Identifying
-subgroup markers in heterogeneous populations'
-(http://www.ncbi.nlm.nih.gov/pubmed/24062158)."
+approach please read corresponding the publication ['Identifying
+subgroup markers in heterogeneous populations'](https://www.ncbi.nlm.nih.gov/pubmed/24062158).
 
 # Getting started
 
