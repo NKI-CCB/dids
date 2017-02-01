@@ -4,8 +4,9 @@ Title: DIDS (Detection of Imbalance in Differential Signals)
 Version: 0.9.1
 Date: 2014-07-21
 Author: Julian de Ruiter
+Depends: Biobase
 Maintainer: Julian de Ruiter <j.d.ruiter@nki.nl>
-Description: “R package for DIDS (Detection of Imbalanced Differential
+Description: "R package for DIDS (Detection of Imbalanced Differential
     Signal). The original version of DIDS was written by Jorma de Ronde
     and is available at http://ccb.nki.nl. For more details about the
     approach please read corresponding the publication 'Identifying
