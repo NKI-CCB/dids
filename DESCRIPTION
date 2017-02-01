@@ -5,5 +5,10 @@ Version: 0.9.1
 Date: 2014-07-21
 Author: Julian de Ruiter
 Maintainer: Julian de Ruiter <j.d.ruiter@nki.nl>
-Description: Wrapper package for DIDS ( Detection of Imbalanced Differential Signal). The original version of DIDS was written by Jorma de Ronde and is available at http://ccb.nki.nl. For more details about the approach please read corresponding the publication 'Identifying subgroup markers in heterogeneous populations' (http://www.ncbi.nlm.nih.gov/pubmed/24062158).
+Description: “R package for DIDS (Detection of Imbalanced Differential
+    Signal). The original version of DIDS was written by Jorma de Ronde
+    and is available at http://ccb.nki.nl. For more details about the
+    approach please read corresponding the publication 'Identifying
+    subgroup markers in heterogeneous populations'
+    (http://www.ncbi.nlm.nih.gov/pubmed/24062158)."
 License: GPLv3
