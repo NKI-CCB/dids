@@ -22,4 +22,4 @@ The package contains a vignette and manual pages with usage information.
 # Reference
 
 de Ronde, Jorma J., et al. "Identifying subgroup markers in heterogeneous
-populations." Nucleic acids research (2013): gkt845.
+populations." Nucleic acids research (2013): gkt845. [doi:10.1093/nar/gkt845](https://dx.doi.org/10.1093/nar/gkt845)
